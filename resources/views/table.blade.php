@@ -10,7 +10,7 @@
 </head>
 <body>   
 <div class="container">
-    <h1>Ini adalah halaman Mahasiswa</h1>
+    <h1>Page Mahasiswa</h1>
    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
       <a href="/form"><button type="button" class="btn btn-primary">
         Primary        
